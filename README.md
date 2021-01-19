@@ -2,8 +2,7 @@ Instalando Docker:
 apt-get update && curl https://get.docker.com |bash
 mkdir /tilabs/site -p
 
-Pagina Exemplo HTML:
-#<p><br></p><h2>Teste Proxy Reverso Com Nginx</h2><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+echo "Teste Proxy Reverso" > /tilabs/site/index.html
 
 
 mkdir /tilabs/conf && mkdir /tilabs/cert/
